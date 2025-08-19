@@ -1,0 +1,17 @@
+Use Case 1: Common Cold
+The patient is experiencing continuous sneezing, chills, fatigue, cough, high fever, and headache.
+
+Use Case 2: Diabetes
+The patient presents with fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, and polyuria.
+
+Use Case 3: Migraine
+The patient is suffering from acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, and visual disturbances.
+
+Use Case 4: Chicken Pox
+The patient complains of itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, and malaise.
+
+Use Case 5: Hypertension
+The patient reports headache, chest pain, dizziness, loss of balance, and lack of concentration.
+
+Use Case 6: Fungal Infection
+The patient has itching, skin rash, nodal skin eruptions, and dischromic patches.
